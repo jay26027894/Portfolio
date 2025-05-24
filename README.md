@@ -1,0 +1,1 @@
+A personal portfolio showcasing my journey as a web designer and developer. The site features a clean, responsive design with interactive elements, highlighting my skills in HTML, CSS, JavaScript, Tailwind CSS. It also includes animations powered by GSAP.
